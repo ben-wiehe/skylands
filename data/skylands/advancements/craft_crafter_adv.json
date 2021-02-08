@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "unlockedCrafter": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "skylands:crafter"
+            }
+        }
+    },
+    "rewards": {
+        "function": "skylands:craft_crafter"
+    }
+}
