@@ -6,8 +6,13 @@
 ##
 
 
-##### recipe 1 test ######
-execute if block ~ ~ ~ dropper{Items:[{Slot:0b,id:"minecraft:warped_stem",Count:1b},{Slot:1b,id:"minecraft:diamond",Count:1b}]} run function skylands:recipe1
+##### Antanium Ingot ######
+execute if block ~ ~ ~ dropper{Items:[{Slot:0b,id:"minecraft:iron_ingot",Count:1b},{Slot:1b,id:"minecraft:gold_ingot",Count:1b}]} run function skylands:antanium_ingot
+
+
+###### Antanium pickaxe #####
+execute if block ~ ~ ~ dropper{Items:[{Slot:0b,id:"minecraft:brick",Count:1b,tag:{antanium_ingot:1b,Enchantments:[{}]}},{Slot:1b,id:"minecraft:brick",Count:1b,tag:{antanium_ingot:1b,Enchantments:[{}]}},{Slot:2b,id:"minecraft:brick",Count:1b,tag:{antanium_ingot:1b,Enchantments:[{}]}},{Slot:4b,id:"minecraft:stick",Count:1b},{Slot:7b,id:"minecraft:stick",Count:1b}]} run function skylands:antanium_pick
+
 
 
 
