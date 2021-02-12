@@ -6,11 +6,11 @@
 ##
 
 ##### crafting table #### 
-execute as @e[tag=crafter] at @s run function skylands:crafter
+execute as @e[tag=crafter] at @s run function skylands:crafter/crafter
 
 
 #### check if crafting table is being placed ####
-execute as @e[type=bat, tag=crafterspawn] at @s run function skylands:summon_crafter
+execute as @e[type=bat, tag=crafterspawn] at @s run function skylands:crafter/summon_crafter
 
 ##### teleport to sky islands if y - 256 #####
 
