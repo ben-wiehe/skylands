@@ -7,7 +7,7 @@
 
 
 ##### recipe 1 test ######
-execute if block ~ ~ ~ dropper{Items:[{Slot:0b,id:"minecraft:warped_stem",Count:1b}]} run function skylands:recipe1
+execute if block ~ ~ ~ dropper{Items:[{Slot:0b,id:"minecraft:warped_stem",Count:1b}]} run function skylands:crafter/recipe1
 
 
 
