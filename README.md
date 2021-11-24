@@ -28,7 +28,6 @@ The skylands is a brand-new dimension of floating islands for you to explore.  T
 ## Upcoming Features
  - Custom Crafting table and recipes  
  - Custom weapons and abilities  
- - portal to teleport to the new dimension  
  - Custom mobs and bosses  
  - Custom Structures  
  - Lore  
