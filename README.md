@@ -8,8 +8,7 @@ The skylands is a brand-new dimension of floating islands for you to explore.  T
  - Reaching y = 200 in any dimension will cause the player to teleport to the skylands  
  - Alternatively, type /execute in skylands:sky run tp @s ~ ~ ~  (note: be prepared to fly immediately or risk falling back into the overworld)  
 ## Biomes
-#### Note: all custom biomes have a blue/purple color palette that affects grass, leaves, water, and the sky.  
-Also, none of the custom biomes have lava lakes.  
+#### Note: all custom biomes have a blue/purple color palette that affects grass, leaves, water, and the sky.  Also, none of the custom biomes have lava lakes.  
  - Sky Plains
   - The sky variant of the overworld plains biome
   - The most common sky biome
