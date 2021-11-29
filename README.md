@@ -27,7 +27,8 @@ The skylands is a brand-new dimension of floating islands for you to explore.  T
    - The vanilla Mushroom Fields biome  
 ## Upcoming Features  
  - Custom Crafting table and recipes  
- - Custom weapons and abilities  
+ - Custom weapons and abilities 
+ - Custom tools 
  - Custom mobs and bosses  
  - Custom Structures  
  - Lore  
