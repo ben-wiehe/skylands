@@ -1,1 +1,6 @@
-{"values": ["skylands:load"]}
+{
+    "values":
+    [
+        "skylands:load"
+    ]
+}
