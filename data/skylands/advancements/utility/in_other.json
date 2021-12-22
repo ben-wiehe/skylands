@@ -1,0 +1,16 @@
+{
+    "parent": "skylands:utility/root",
+    "criteria": {
+        "impossible": {
+            "trigger": "minecraft:impossible"
+        }
+    },
+    "requirements": [
+        [
+            "impossible"
+        ]
+    ],
+    "rewards": {
+      "function": "skylands:establish_dimension_advancement/assert_other"
+    }
+  }
