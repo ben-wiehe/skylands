@@ -1,0 +1,19 @@
+{
+  "parent": "skylands:utility/root",
+  "criteria": {
+    "in_nether": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "minecraft:the_nether"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_nether"
+    ]
+  ],
+  "rewards": {
+    "function": "skylands:establish_dimension_advancement/assert_nether"
+  }
+}

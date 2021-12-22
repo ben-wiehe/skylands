@@ -1,0 +1,19 @@
+{
+  "parent": "skylands:utility/root",
+  "criteria": {
+    "in_overworld": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "minecraft:overworld"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_overworld"
+    ]
+  ],
+  "rewards": {
+    "function": "skylands:establish_dimension_advancement/assert_overworld"
+  }
+}

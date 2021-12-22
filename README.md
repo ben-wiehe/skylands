@@ -26,16 +26,14 @@ The skylands is a brand-new dimension of floating islands for you to explore.  T
  - Mushroom Fields  
    - The vanilla Mushroom Fields biome  
 ## Upcoming Features  
- - Custom Crafting table and recipes  
+ - Custom crafting table and recipes  
  - Custom weapons and abilities 
  - Custom tools 
  - Custom mobs and bosses  
- - Custom Structures  
+ - Custom structures  
  - Lore  
 ## Known Bugs  
  - Mineshafts spawn underneath the islands in mushroom biomes  
- - Reaching y = 200 in the skylands teleports the player to the skylands; this is redundant  
 ## Links  
-https://stackedit.io/app#  
 https://github.com/ben-wiehe/skylands  
 https://www.planetminecraft.com/data-pack/the-skylands-dimension/  

@@ -1,0 +1,19 @@
+{
+  "parent": "skylands:utility/root",
+  "criteria": {
+    "in_skylands": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "skylands:sky"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "in_skylands"
+    ]
+  ],
+  "rewards": {
+    "function": "skylands:establish_dimension_advancement/assert_skylands"
+  }
+}
